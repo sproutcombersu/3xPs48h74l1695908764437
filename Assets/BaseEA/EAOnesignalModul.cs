@@ -5,7 +5,7 @@ using OneSignalSDK;
 
 public class EAOnesignalModul : MonoBehaviour
 {
-    private string ONESIGNAL_ID = "16094ad4-e2a1-4c20-b7eb-6a535a36ee01";
+        private string ONESIGNAL_ID = "cefb1d90-b4f8-4a23-ac8d-987caa93089f";
     // Start is called before the first frame update
     void Start()
     {
